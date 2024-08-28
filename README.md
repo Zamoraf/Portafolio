@@ -1,47 +1,28 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Portafolio de Desarrollo Web de Zamora Moreno
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños. 
+Este proyecto es un portafolio personal de Fany Marily Zamora Moreno, estudiante de Ingeniería en Computación, que muestra sus habilidades, proyectos, y testimonios. Está construido utilizando tecnologías web modernas, incluyendo HTML, CSS, JavaScript, y Bootstrap.
 
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
+## Descripción
 
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
+El portafolio tiene como objetivo destacar la experiencia y los proyectos desarrollados por Fany Marily Zamora Moreno en el campo del desarrollo web y otros ámbitos relacionados con la Ingeniería en Computación. Además, contiene secciones que permiten a los visitantes conocer más sobre su experiencia académica, habilidades, y proyectos realizados.
 
-### Capturas de pantalla:
+## Estructura del Proyecto
 
-Primera parte de la página web:
+- **HTML**: Estructura del contenido del portafolio.
+- **CSS**: Estilos personalizados y uso de Bootstrap para una disposición responsiva.
+- **JavaScript**: Se utiliza para agregar animaciones y mejorar la interacción del usuario.
+- **Bootstrap**: Framework utilizado para facilitar el diseño responsivo y el uso de componentes.
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+## Secciones Principales
 
-Experiencia:
+1. **Sobre Mí**: Introducción y breve resumen sobre Fany Marily Zamora Moreno.
+2. **Experiencia**: Muestra las habilidades y áreas de experiencia, como desarrollo web, redacción de artículos y estudios académicos.
+3. **Proyectos**: Una galería que exhibe algunos de los proyectos más recientes.
+4. **Testimonios**: Opiniones y comentarios de compañeros y docentes sobre el trabajo y actitud profesional.
+5. **Contacto**: Sección para ponerse en contacto y comenzar un proyecto de desarrollo web.
+6. **Pie de Página**: Incluye enlaces a redes sociales y derechos de autor.
 
-![Experiencia](imagenes/screenshot2.png)
+## Cómo Ver el Proyecto
 
-Proyectos:
-
-![Proyectos](imagenes/screenshot3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
-
-Contacto:
-
-![Contacto](imagenes/screenshot5.png)
-
-## Tecnologías
-
-Esta página web fue creada con:
-
-* HTML
-* CSS
-* JavaScript 
-* Bootstrap 5
-
-Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
-
-## Español
-El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
-
-
-
+Puedes ver el portafolio en vivo [aquí](https://github.com/Zamoraf).
 
