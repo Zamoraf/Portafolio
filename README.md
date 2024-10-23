@@ -24,5 +24,5 @@ El portafolio tiene como objetivo destacar la experiencia y los proyectos desarr
 
 ## Cómo Ver el Proyecto
 
-Puedes ver el portafolio en vivo [aquí](https://github.com/Zamoraf).
+Puedes ver el portafolio en vivo [aquí](https://github.com/Zamor).    [front](https://portafolio-xvwg.vercel.app/). 
 
